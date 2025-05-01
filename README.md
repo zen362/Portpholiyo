@@ -1,6 +1,8 @@
-# Portpholiyo - Shiv Jani's Portfolio
 
 ![Portfolio Banner](https://media.giphy.com/media/3og0IyyB6uF9EgduKc/giphy.gif)
+
+# Portpholiyo - Shiv Jani's Portfolio
+
 
 ## 🚀 Overview
 
